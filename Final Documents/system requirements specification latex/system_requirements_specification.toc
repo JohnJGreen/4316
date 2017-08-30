@@ -1,0 +1,206 @@
+\contentsline {section}{\numberline {1}Product Concept}{6}
+\contentsline {subsection}{\numberline {1.1}Purpose and Use}{6}
+\contentsline {subsection}{\numberline {1.2}Intended Audience}{6}
+\contentsline {section}{\numberline {2}Product Description}{7}
+\contentsline {subsection}{\numberline {2.1}Features \& Functions}{7}
+\contentsline {subsection}{\numberline {2.2}External Inputs \& Outputs}{7}
+\contentsline {subsection}{\numberline {2.3}Product Interfaces}{7}
+\contentsline {section}{\numberline {3}Customer Requirements}{8}
+\contentsline {subsection}{\numberline {3.1}The vehicle shall have a mounted gimbal}{8}
+\contentsline {subsubsection}{\numberline {3.1.1}Description}{8}
+\contentsline {subsubsection}{\numberline {3.1.2}Source}{8}
+\contentsline {subsubsection}{\numberline {3.1.3}Constraints}{8}
+\contentsline {subsubsection}{\numberline {3.1.4}Standards}{8}
+\contentsline {subsubsection}{\numberline {3.1.5}Priority}{8}
+\contentsline {subsection}{\numberline {3.2}The gimbal shall have a mounted stereoscopic camera setup}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Description}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}Source}{8}
+\contentsline {subsubsection}{\numberline {3.2.3}Constraints}{8}
+\contentsline {subsubsection}{\numberline {3.2.4}Standards}{8}
+\contentsline {subsubsection}{\numberline {3.2.5}Priority}{8}
+\contentsline {subsection}{\numberline {3.3}The virtual reality headset's accelerometer/gyro shall control the gimbals movement}{8}
+\contentsline {subsubsection}{\numberline {3.3.1}Description}{8}
+\contentsline {subsubsection}{\numberline {3.3.2}Source}{8}
+\contentsline {subsubsection}{\numberline {3.3.3}Constraints}{9}
+\contentsline {subsubsection}{\numberline {3.3.4}Standards}{9}
+\contentsline {subsubsection}{\numberline {3.3.5}Priority}{9}
+\contentsline {subsection}{\numberline {3.4}The stereoscopic camera shall stream live dual-panel video to the operating computer}{9}
+\contentsline {subsubsection}{\numberline {3.4.1}Description}{9}
+\contentsline {subsubsection}{\numberline {3.4.2}Source}{9}
+\contentsline {subsubsection}{\numberline {3.4.3}Constraints}{9}
+\contentsline {subsubsection}{\numberline {3.4.4}Standards}{9}
+\contentsline {subsubsection}{\numberline {3.4.5}Priority}{9}
+\contentsline {subsection}{\numberline {3.5}The computer shall have software which streams the video from the camera rig to a virtual reality headset}{9}
+\contentsline {subsubsection}{\numberline {3.5.1}Description}{9}
+\contentsline {subsubsection}{\numberline {3.5.2}Source}{9}
+\contentsline {subsubsection}{\numberline {3.5.3}Constraints}{9}
+\contentsline {subsubsection}{\numberline {3.5.4}Standards}{9}
+\contentsline {subsubsection}{\numberline {3.5.5}Priority}{10}
+\contentsline {subsection}{\numberline {3.6}The system shall have a simple user interface}{10}
+\contentsline {subsubsection}{\numberline {3.6.1}Description}{10}
+\contentsline {subsubsection}{\numberline {3.6.2}Source}{10}
+\contentsline {subsubsection}{\numberline {3.6.3}Constraints}{10}
+\contentsline {subsubsection}{\numberline {3.6.4}Standards}{10}
+\contentsline {subsubsection}{\numberline {3.6.5}Priority}{10}
+\contentsline {subsection}{\numberline {3.7}The system shall deliver 3D stereo display}{10}
+\contentsline {subsubsection}{\numberline {3.7.1}Description}{10}
+\contentsline {subsubsection}{\numberline {3.7.2}Source}{10}
+\contentsline {subsubsection}{\numberline {3.7.3}Constraints}{10}
+\contentsline {subsubsection}{\numberline {3.7.4}Standards}{10}
+\contentsline {subsubsection}{\numberline {3.7.5}Priority}{10}
+\contentsline {subsection}{\numberline {3.8}The system shall stream real-time video from a remote location}{10}
+\contentsline {subsubsection}{\numberline {3.8.1}Description}{11}
+\contentsline {subsubsection}{\numberline {3.8.2}Source}{11}
+\contentsline {subsubsection}{\numberline {3.8.3}Constraints}{11}
+\contentsline {subsubsection}{\numberline {3.8.4}Standards}{11}
+\contentsline {subsubsection}{\numberline {3.8.5}Priority}{11}
+\contentsline {subsection}{\numberline {3.9}The camera rig shall be light weight}{11}
+\contentsline {subsubsection}{\numberline {3.9.1}Description}{11}
+\contentsline {subsubsection}{\numberline {3.9.2}Source}{11}
+\contentsline {subsubsection}{\numberline {3.9.3}Constraints}{11}
+\contentsline {subsubsection}{\numberline {3.9.4}Standards}{11}
+\contentsline {subsubsection}{\numberline {3.9.5}Priority}{11}
+\contentsline {subsection}{\numberline {3.10}The system shall have a toggled lighting mechanism}{11}
+\contentsline {subsubsection}{\numberline {3.10.1}Description}{11}
+\contentsline {subsubsection}{\numberline {3.10.2}Source}{11}
+\contentsline {subsubsection}{\numberline {3.10.3}Constraints}{12}
+\contentsline {subsubsection}{\numberline {3.10.4}Standards}{12}
+\contentsline {subsubsection}{\numberline {3.10.5}Priority}{12}
+\contentsline {subsection}{\numberline {3.11}The camera rig shall be durable}{12}
+\contentsline {subsubsection}{\numberline {3.11.1}Description}{12}
+\contentsline {subsubsection}{\numberline {3.11.2}Source}{12}
+\contentsline {subsubsection}{\numberline {3.11.3}Constraints}{12}
+\contentsline {subsubsection}{\numberline {3.11.4}Standards}{12}
+\contentsline {subsubsection}{\numberline {3.11.5}Priority}{12}
+\contentsline {subsection}{\numberline {3.12}The gimbal shall operate normally under low system vibration}{12}
+\contentsline {subsubsection}{\numberline {3.12.1}Description}{12}
+\contentsline {subsubsection}{\numberline {3.12.2}Source}{12}
+\contentsline {subsubsection}{\numberline {3.12.3}Constraints}{12}
+\contentsline {subsubsection}{\numberline {3.12.4}Standards}{12}
+\contentsline {subsubsection}{\numberline {3.12.5}Priority}{12}
+\contentsline {subsection}{\numberline {3.13}The system shall run on a removable battery pack}{13}
+\contentsline {subsubsection}{\numberline {3.13.1}Description}{13}
+\contentsline {subsubsection}{\numberline {3.13.2}Source}{13}
+\contentsline {subsubsection}{\numberline {3.13.3}Constraints}{13}
+\contentsline {subsubsection}{\numberline {3.13.4}Standards}{13}
+\contentsline {subsubsection}{\numberline {3.13.5}Priority}{13}
+\contentsline {section}{\numberline {4}Packaging Requirements}{14}
+\contentsline {subsection}{\numberline {4.1}The camera rig shall have software preloaded}{14}
+\contentsline {subsubsection}{\numberline {4.1.1}Description}{14}
+\contentsline {subsubsection}{\numberline {4.1.2}Source}{14}
+\contentsline {subsubsection}{\numberline {4.1.3}Constraints}{14}
+\contentsline {subsubsection}{\numberline {4.1.4}Standards}{14}
+\contentsline {subsubsection}{\numberline {4.1.5}Priority}{14}
+\contentsline {subsection}{\numberline {4.2}The camera rig shall come pre-assembled}{14}
+\contentsline {subsubsection}{\numberline {4.2.1}Description}{14}
+\contentsline {subsubsection}{\numberline {4.2.2}Source}{14}
+\contentsline {subsubsection}{\numberline {4.2.3}Constraints}{14}
+\contentsline {subsubsection}{\numberline {4.2.4}Standards}{14}
+\contentsline {subsubsection}{\numberline {4.2.5}Priority}{14}
+\contentsline {subsection}{\numberline {4.3}Virtual reality software shall be installed on-site}{14}
+\contentsline {subsubsection}{\numberline {4.3.1}Description}{14}
+\contentsline {subsubsection}{\numberline {4.3.2}Source}{14}
+\contentsline {subsubsection}{\numberline {4.3.3}Constraints}{14}
+\contentsline {subsubsection}{\numberline {4.3.4}Standards}{15}
+\contentsline {subsubsection}{\numberline {4.3.5}Priority}{15}
+\contentsline {subsection}{\numberline {4.4}Virtual reality rig shall be assembled on-site}{15}
+\contentsline {subsubsection}{\numberline {4.4.1}Description}{15}
+\contentsline {subsubsection}{\numberline {4.4.2}Source}{15}
+\contentsline {subsubsection}{\numberline {4.4.3}Constraints}{15}
+\contentsline {subsubsection}{\numberline {4.4.4}Standards}{15}
+\contentsline {subsubsection}{\numberline {4.4.5}Priority}{15}
+\contentsline {section}{\numberline {5}Performance Requirements}{16}
+\contentsline {subsection}{\numberline {5.1}Operating time for the camera rig shall have a minimum of one hour of battery life}{16}
+\contentsline {subsubsection}{\numberline {5.1.1}Description}{16}
+\contentsline {subsubsection}{\numberline {5.1.2}Source}{16}
+\contentsline {subsubsection}{\numberline {5.1.3}Constraints}{16}
+\contentsline {subsubsection}{\numberline {5.1.4}Standards}{16}
+\contentsline {subsubsection}{\numberline {5.1.5}Priority}{16}
+\contentsline {subsection}{\numberline {5.2}Video latency shall be under 50ms}{16}
+\contentsline {subsubsection}{\numberline {5.2.1}Description}{16}
+\contentsline {subsubsection}{\numberline {5.2.2}Source}{16}
+\contentsline {subsubsection}{\numberline {5.2.3}Constraints}{16}
+\contentsline {subsubsection}{\numberline {5.2.4}Standards}{16}
+\contentsline {subsubsection}{\numberline {5.2.5}Priority}{16}
+\contentsline {subsection}{\numberline {5.3}Video shall have 60 frames per second video rendering}{16}
+\contentsline {subsubsection}{\numberline {5.3.1}Description}{16}
+\contentsline {subsubsection}{\numberline {5.3.2}Source}{17}
+\contentsline {subsubsection}{\numberline {5.3.3}Constraints}{17}
+\contentsline {subsubsection}{\numberline {5.3.4}Standards}{17}
+\contentsline {subsubsection}{\numberline {5.3.5}Priority}{17}
+\contentsline {subsection}{\numberline {5.4}Video shall be stable when camera rig is in motion up to 5 MPH}{17}
+\contentsline {subsubsection}{\numberline {5.4.1}Description}{17}
+\contentsline {subsubsection}{\numberline {5.4.2}Source}{17}
+\contentsline {subsubsection}{\numberline {5.4.3}Constraints}{17}
+\contentsline {subsubsection}{\numberline {5.4.4}Standards}{17}
+\contentsline {subsubsection}{\numberline {5.4.5}Priority}{17}
+\contentsline {subsection}{\numberline {5.5}The camera rig shall have a maximum translation error of 0.5 degrees}{17}
+\contentsline {subsubsection}{\numberline {5.5.1}Description}{17}
+\contentsline {subsubsection}{\numberline {5.5.2}Source}{17}
+\contentsline {subsubsection}{\numberline {5.5.3}Constraints}{17}
+\contentsline {subsubsection}{\numberline {5.5.4}Standards}{17}
+\contentsline {subsubsection}{\numberline {5.5.5}Priority}{17}
+\contentsline {section}{\numberline {6}Safety Requirements}{18}
+\contentsline {subsection}{\numberline {6.1}The user shall discontinue using the product when experiencing symptoms of sickness}{18}
+\contentsline {subsubsection}{\numberline {6.1.1}Description}{18}
+\contentsline {subsubsection}{\numberline {6.1.2}Source}{18}
+\contentsline {subsubsection}{\numberline {6.1.3}Constraints}{18}
+\contentsline {subsubsection}{\numberline {6.1.4}Standards}{18}
+\contentsline {subsubsection}{\numberline {6.1.5}Priority}{18}
+\contentsline {subsection}{\numberline {6.2}The user shall use the product in an open environment}{18}
+\contentsline {subsubsection}{\numberline {6.2.1}Description}{18}
+\contentsline {subsubsection}{\numberline {6.2.2}Source}{18}
+\contentsline {subsubsection}{\numberline {6.2.3}Constraints}{18}
+\contentsline {subsubsection}{\numberline {6.2.4}Standards}{18}
+\contentsline {subsubsection}{\numberline {6.2.5}Priority}{18}
+\contentsline {subsection}{\numberline {6.3}Camera rig shall have battery shield to prevent damage}{18}
+\contentsline {subsubsection}{\numberline {6.3.1}Description}{18}
+\contentsline {subsubsection}{\numberline {6.3.2}Source}{18}
+\contentsline {subsubsection}{\numberline {6.3.3}Constraints}{19}
+\contentsline {subsubsection}{\numberline {6.3.4}Standards}{19}
+\contentsline {subsubsection}{\numberline {6.3.5}Priority}{19}
+\contentsline {subsection}{\numberline {6.4}The cables of the camera rig shall be secured to prevent wire tangling and shorts}{19}
+\contentsline {subsubsection}{\numberline {6.4.1}Description}{19}
+\contentsline {subsubsection}{\numberline {6.4.2}Source}{19}
+\contentsline {subsubsection}{\numberline {6.4.3}Constraints}{19}
+\contentsline {subsubsection}{\numberline {6.4.4}Standards}{19}
+\contentsline {subsubsection}{\numberline {6.4.5}Priority}{19}
+\contentsline {section}{\numberline {7}Maintenance \& Support Requirements}{20}
+\contentsline {subsection}{\numberline {7.1}Parts list will come with the product}{20}
+\contentsline {subsubsection}{\numberline {7.1.1}Description}{20}
+\contentsline {subsubsection}{\numberline {7.1.2}Source}{20}
+\contentsline {subsubsection}{\numberline {7.1.3}Constraints}{20}
+\contentsline {subsubsection}{\numberline {7.1.4}Standards}{20}
+\contentsline {subsubsection}{\numberline {7.1.5}Priority}{20}
+\contentsline {subsection}{\numberline {7.2}Assembly instructions shall come with the product}{20}
+\contentsline {subsubsection}{\numberline {7.2.1}Description}{20}
+\contentsline {subsubsection}{\numberline {7.2.2}Source}{20}
+\contentsline {subsubsection}{\numberline {7.2.3}Constraints}{20}
+\contentsline {subsubsection}{\numberline {7.2.4}Standards}{20}
+\contentsline {subsubsection}{\numberline {7.2.5}Priority}{20}
+\contentsline {subsection}{\numberline {7.3}Camera rig servicing instructions will come with the product}{20}
+\contentsline {subsubsection}{\numberline {7.3.1}Description}{20}
+\contentsline {subsubsection}{\numberline {7.3.2}Source}{20}
+\contentsline {subsubsection}{\numberline {7.3.3}Constraints}{20}
+\contentsline {subsubsection}{\numberline {7.3.4}Standards}{20}
+\contentsline {subsubsection}{\numberline {7.3.5}Priority}{21}
+\contentsline {subsection}{\numberline {7.4}User manual shall come with the product}{21}
+\contentsline {subsubsection}{\numberline {7.4.1}Description}{21}
+\contentsline {subsubsection}{\numberline {7.4.2}Source}{21}
+\contentsline {subsubsection}{\numberline {7.4.3}Constraints}{21}
+\contentsline {subsubsection}{\numberline {7.4.4}Standards}{21}
+\contentsline {subsubsection}{\numberline {7.4.5}Priority}{21}
+\contentsline {subsection}{\numberline {7.5}Modular construction}{21}
+\contentsline {subsubsection}{\numberline {7.5.1}Description}{21}
+\contentsline {subsubsection}{\numberline {7.5.2}Source}{21}
+\contentsline {subsubsection}{\numberline {7.5.3}Constraints}{21}
+\contentsline {subsubsection}{\numberline {7.5.4}Standards}{21}
+\contentsline {subsubsection}{\numberline {7.5.5}Priority}{21}
+\contentsline {section}{\numberline {8}Other Requirements}{22}
+\contentsline {section}{\numberline {9}Future Items}{23}
+\contentsline {subsection}{\numberline {9.1}Upgraded video capabilities}{23}
+\contentsline {subsubsection}{\numberline {9.1.1}Description}{23}
+\contentsline {subsubsection}{\numberline {9.1.2}Source}{23}
+\contentsline {subsubsection}{\numberline {9.1.3}Constraints}{23}
+\contentsline {subsubsection}{\numberline {9.1.4}Standards}{23}
+\contentsline {subsubsection}{\numberline {9.1.5}Priority}{23}

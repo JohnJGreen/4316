@@ -1,0 +1,157 @@
+
+\subsection{The vehicle shall have a mounted gimbal}
+\subsubsection{Description}
+The gimbal will offer each of the three major movement categories: pitch, roll, and yaw. The gimbal is to be designed by hand and utilize an individual servo motor for each directional category.
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The area selected by the user must have adequate specifications to allow the camera system to be mounted.
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+Low Priority: The system will ultimately be mounted to an area of the user's choice.
+
+\subsection{The gimbal shall have a mounted stereoscopic camera setup}
+\subsubsection{Description}
+The stereoscopic camera setup will be mounted at the apex of the gimbal's motors. The motors will allow the camera rig to encompass the maximum range of direction offered by a human neck.
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The motors used in the design of the gimbal must be able to quickly and accurately adjust the camera setup. 
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+High Priority:  The gimbal must be able to adjust the camera setup according to the signals provided by the virtual reality headset.
+
+\subsection{The virtual reality headset's accelerometer/gyro shall control the gimbals movement}
+\subsubsection{Description}
+The virtual reality headset's built-in accelerometer will be critical in directing the gimbal. Every motion detected by the headset will be translated and converted to individual signals appropriate to each servo motor. The goal is to simulate an encompassing sense of presence in the user.
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The gimbal must be able to adjust the camera setup according to the signals provided by the virtual reality headset. The accelerometer's signals must be adequately translated to adjust the gimbal motors.
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+High Priority: The only alternative to headset-controlled movement is to implement a 360 degree camera which is generally outside of the project budget.
+
+\subsection{The stereoscopic camera shall stream live dual-panel video to the operating computer}
+\subsubsection{Description}
+Each camera in the camera rig system will stream its synchronized video to a computer which is running virtualization software. 
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+Live streaming high definition video may require hardware which is outside the project budget.
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+Low Priority: The video will output directly to a host computer until wireless video transmission can be reliably achieved.
+
+\subsection{The computer shall have software which streams the video from the camera rig to a virtual reality headset}
+\subsubsection{Description}
+The video from the camera setup will initially be separate streams, each of which mimics and represents the visual input to each human eye. Virtualization software on the controlling PC will ensure the video is synchronized and render the video side-by-side to create an appropriate illusion of the dimensions. The video will be streamed through a wired connection to the virtual reality headset.
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+A computer which is capable of rendering video into a virtual reality headset format must be available to the user.
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+Low Priority: While the video will be rendered to a suitable format for a virtual reality headset, the headset itself may not be readily available for project development.
+
+\subsection{The system shall have a simple user interface}
+\subsubsection{Description}
+While simple is ultimately a matter of end-user opinion, our goal is to simplify the system's interface as much as possible such that there are few to no discrepancies when it comes to system operation.
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+Some functionality which will be vital to system operation may not be known to the development team as of now. The degree of simplicity of the interface will depend on the completed list of functional requirements of the system at the time of delivery.  
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+Low Priority: During development, the layout of the user interface may be scattered. The interface will be simplified only if all other specifications are met.
+
+\subsection{The system shall deliver 3D stereo display}
+\subsubsection{Description}
+The purpose of the system is to take stereoscopic video input and stitch the streams together to render a virtual 3D environment. This environment is intended to be viewed through a virtual reality headset, and may also be rendered by high-end GPUs on any screen capable of 3D display. 
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The user must possess hardware capable of rendering a 3D environment. While the system will be tested using a virtual reality headset, the system will be delivered independent of any external visualization components. The developers assume that the target audience will need to obtain a virtual reality headset separately from the system.  
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+High Priority: The camera rig will be designed for this purpose alone. 
+
+\subsection{The system shall stream real-time video from a remote location}
+\subsubsection{Description}
+The system will be mounted and will stream raw video output from the stereoscopic camera rig. The processing system takes the raw video stream from the camera system and displays the stream to the virtual reality headset. The processing system will be used to render the video in a 3D environment. 
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+Many of the specific hardware components to be used by the system remain unknown. Budget requirements may restrict the quality of hardware used in the system, which in turn may lead to latency limitations which cannot be easily surpassed. In order to achieve this requirement, an agreeably low wireless video latency must first be achieved.
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+High Priority: In order for an agreeable virtual reality environment to be created, the video stream should be as close to real-time as possible.
+
+\subsection{The camera rig shall be light weight}
+\subsubsection{Description}
+In order for the gimbal to reliably adjust the directive angle of the camera rig, the rig must be below a certain weight threshold. 
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The weight of the cameras used in the system will determine the minimum achievable weight of the camera rig. The weight of the camera rig will determine the rotational torque needed in gimbal motors.
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+Moderate Priority: A heavy camera rig may slow the movement of the gimbal and require more expensive hardware. 
+
+\subsection{The system shall have a toggled lighting mechanism}
+\subsubsection{Description}
+An LED system will be included at the front of the camera rig which can be toggled by the user. This will increase system utility as environmental observability is increased. 
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The LEDs must be low-weight and have low power consumption ratings. The LEDs must be operated remotely by a switch available to the user. 
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+Low Priority: This requirement will only be implemented once all other specifications are met. 
+
+\subsection{The camera rig shall be durable}
+\subsubsection{Description}
+The mobility of the system demands limited system durability. The camera rig will be designed to operate normally under reasonable environmental conditions. 
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The durability of the camera rig depends on the independant durability of the cameras used in the design of the system. 
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+Moderate Priority: The mobility of the system requires that the camera rig to be able to withstand certain external vibrations and forces. 
+
+\subsection{The gimbal shall operate normally under low system vibration}
+\subsubsection{Description}
+The mobility of the system will cause unavoidable system vibration that can cause nausea and discomfort to the end-user. In order to circumnavigate this effect, the gimbal shall be designed to provide a low level stabilization to reduce visual noise by system vibration.
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The environment traversed by the system will directly affect the amount of vibrations delivered to the gimbal. Vehicular momentum will also affect system vibration. 
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+Moderate Priority: While system mobility is a factor, most system development will be conducted under a stationary environment. The system shall, at least, compensate for self-induced vibrations from the gimbal.  
+
+\subsection{The system shall run on a removable battery pack}
+\subsubsection{Description}
+The system's power supply will be interchangeable to maximize system utility. Rather than utilizing a station which recharges an internal battery, the user will be able to easily remove and replace the systems power supply.  
+\subsubsection{Source}
+CSE Senior Design project specifications.
+\subsubsection{Constraints}
+The battery pack must be lightweight. The components used by the system will determine the power rating of the supply chosen to run the system. The battery pack used by the system may or may not be rechargeable.
+\subsubsection{Standards}
+None
+\subsubsection{Priority}
+High Priority: The camera rig and gimbal must be mobile. Connection to an external power source would limit the mobility of the system. The power delivered to the system will be easily changeable ideally. Budget constraints may affect this requirement.
+

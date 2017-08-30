@@ -1,0 +1,18 @@
+\begin {longtable}{@{}|l|l|>{\hsize =\vhAuthorColWidth }X|>{\hsize =\vhChangeColWidth }X|@{}}\hline 
+\textbf {\vhversionname }
+ & \textbf {\vhdatename }
+ & \textbf {\vhauthorname }
+ & \textbf {\vhchangename }\\\hline 
+0.1
+ & 10.25.2016
+ & \listset {CA|JG|AL|CO|TS}
+ & Document creation\\\hline 
+0.2
+ & 12.15.2016
+ & \listset {CA|JG|AL|CO|TS}
+ & Removed Mobile Platform Layer\\\hline 
+0.3
+ & 04.19.2017
+ & \listset {CA|JG|AL|CO|TS}
+ & Update document\\\hline 
+\end {longtable}

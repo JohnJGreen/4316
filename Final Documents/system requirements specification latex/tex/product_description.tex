@@ -1,0 +1,13 @@
+
+\subsection{Features \& Functions}
+The product will have a 3D range of visibility including camera pitch, yaw, and roll. It will be compact and low profile enough for most of its expected applications.
+
+\subsection{External Inputs \& Outputs}
+\begin{itemize}
+\item Raw video stream output from a dual/stereoscopic camera setup
+\item Inputs of head tracking coordinates from virtual reality headset
+\end{itemize}
+The product will stream raw video from cameras in a remote location to a virtual reality headset. The camera rig will grab the head tracking coordinates from the virtual reality headset to simulate the motion of the head. The camera rig is to be mounted at the head of a gimbal which is controlled directly by the virtual reality headset's accelerometer/gyro.
+
+\subsection{Product Interfaces}
+The virtual reality headset's built-in accelerometer will communicate with the system's gimbal to control the directive movements of the gimbal's motors by sending the raw angular data from the headset to the computer processing system. The Arduino board will receive the rotation signals from the processing system and translate the signals to their appropriate voltage steps to be sent to the motors. Also, the processing system will process the raw video stream input from the camera rig and transmit the video wirelessly to the virtual reality headset system.

@@ -1,0 +1,21 @@
+5/11/2017
+Senior Design 2
+
+Note: The following document will give a high level description of the class used in the C#/Unity scripts.
+
+Class LeftEye and RightEye: 
+	Attributes: WebCamTexture webCamLeft
+		    RawImage display
+
+        Methods:    void Start()
+
+	Description:Class LeftEye/RightEye automatically calls Start(). Start() uses the Unity feature WebCamTexture
+		    to take input from a USB connected webcam and make a texture that can be put in the User 
+		    Interface of the project.
+
+Description of WebCamDevice:
+	WebCamDevice is a Unity type that holds the "identity" of a given webcam. Further description can be found
+	in Unity's documentation.
+Description of WebCamTexture:
+	WebCamTexture is a Unity type that allows for the "broadcasting" of a live webcam feed to a Unity texture.
+	Further description can be found in Unity's documentation.
